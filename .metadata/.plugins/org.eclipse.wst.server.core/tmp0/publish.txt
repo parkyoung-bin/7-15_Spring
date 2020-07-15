@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed Jul 15 17:57:59 KST 2020
+org.eclipse.jst.jee.server\:MyWeb=D\:\\course\\couse-dh\\JSP\\tomcat\\apache-tomcat-9.0.36\\wtpwebapps\\MyWeb
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\KGITBANK\\.m2\\repository\\org\\springframework\\spring-web\\5.0.7.RELEASE\\spring-web-5.0.7.RELEASE.jar=D\:\\course\\couse-dh\\JSP\\tomcat\\apache-tomcat-9.0.36\\wtpwebapps\\MyWeb\\WEB-INF\\lib\\spring-web-5.0.7.RELEASE.jar
+org.eclipse.jst.jee.server\:test=D\:\\course\\couse-dh\\JSP\\tomcat\\apache-tomcat-9.0.36\\wtpwebapps\\test

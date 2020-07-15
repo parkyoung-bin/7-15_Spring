@@ -1,0 +1,13 @@
+package com.team404.util;
+
+public class PageVO {
+	//criteria를 받아 화면에 보여줄 버튼 을 꼐산할 클래스
+	private int startPage;
+	private int endPage;
+	private boolean prev;
+	private boolean next;
+	
+	private int pageNum;
+	private int amount;
+	
+}

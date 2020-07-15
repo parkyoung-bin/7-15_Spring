@@ -1,0 +1,26 @@
+package Fried;
+
+abstract class Chicken {
+   double taste;
+   String origin;
+   void cook() {
+   }
+}
+
+class CrispyChicken extends Chicken {
+   boolean isCrispy;
+   void cookWithOil() {
+      this.taste += 5;
+      System.out.println("기름에 튀겼습니다.");
+      isCrispy = true;
+   }
+   
+   class SweetSauceChicken extends Chicken {
+      boolean isSweet;
+      void cookWithSauce() {
+         this.taste += 4;
+         System.out.println("튀겨서 양념을 발랐습니다.");
+         isSweet = true;
+      }
+   }
+}

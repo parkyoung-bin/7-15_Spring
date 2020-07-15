@@ -10,7 +10,7 @@
 	<!-- 1.자바버전 , 스프링 버전 변수 선언  -->
 	<properties>
 		<java-version></java-version>
-		<org.springframework-version>5.0.7.RELEASE</org.springframework-version>	
+		<org.springframework-version>5.2.7.RELEASE</org.springframework-version>	
 	</properties>
 
 
